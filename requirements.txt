@@ -1,0 +1,8 @@
+ipykernel
+ipython
+jupyter
+requests
+pyspark
+setuptools
+pyarrow
+numpy 1.26.3
