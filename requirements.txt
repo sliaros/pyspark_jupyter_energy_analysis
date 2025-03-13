@@ -5,4 +5,7 @@ requests
 pyspark
 setuptools
 pyarrow
-numpy 1.26.3
+numpy
+matplotlib
+seaborn
+setuptools
